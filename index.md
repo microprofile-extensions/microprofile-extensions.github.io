@@ -3,9 +3,8 @@ layout: default
 title: Home
 ---
 
-<header>
-<h1><img src="/images/microprofile-ext.png" alt="logo"></h1>
+<!--<header>
 <p>a Collection of open source extensions for your MicroProfile projects</p>
-</header>
+</header>-->
 
 {% include tiles.html %}
