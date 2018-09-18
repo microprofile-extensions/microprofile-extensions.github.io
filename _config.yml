@@ -7,8 +7,8 @@
 
 # Site settings
 title: MicroProfile Extensions
-email: phillip.kruger@phillip-kruger.com
-description: Extension for MicroProfile projects
+#email: phillip.kruger@phillip-kruger.com
+description: Extensions for MicroProfile projects
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
