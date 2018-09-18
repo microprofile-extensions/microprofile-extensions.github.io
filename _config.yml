@@ -1,38 +1,13 @@
 ---
-
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
-
-
-### content configuration ###
-title:       "MicroProfile Extensions"
-keywords:    "MicroProfile"
-description: "Some extensions for your MicroProfile projects"
-source_link: "https://github.com/microprofile-extensions"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-106577215-3
-
-
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-
-kramdown:
-  auto_ids:  false
-
+title: MicroProfile Extensions
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+source: src
+destination: dist
+permalink: "/:categories/:title"
