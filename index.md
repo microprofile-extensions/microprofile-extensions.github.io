@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<!--<header>
+<header>
 <p>a Collection of open source extensions for your MicroProfile projects</p>
-</header>-->
+</header>
 
 {% include tiles.html %}
