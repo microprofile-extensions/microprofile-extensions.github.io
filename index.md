@@ -4,7 +4,7 @@ title: Home
 ---
 
 <header>
-<p>a Collection of open source extensions for your MicroProfile projects</p>
+<p><center>a Community driven collection of open source extensions for your MicroProfile projects</center></p>
 </header>
 
 {% include tiles.html %}
