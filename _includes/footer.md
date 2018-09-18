@@ -1,8 +1,6 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+[www.microprofile-ext.org](http://www.microprofile-ext.org)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+[Github page](https://github.com/microprofile-extensions)
 
