@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "MicroProfile Extensions"
 keywords:    "MicroProfile"
 description: "Some extensions for your MicroProfile projects"
-source_link: "http://www.microprofile-ext.org/"
+source_link: "https://github.com/microprofile-extensions"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-106577215-3
